@@ -19,7 +19,8 @@
   margin-top: 50px;
 }
 
-.logoscl > h4 {
+.logoscl > h4,
+.onomacl > h4 {
   color: darkslategrey;
   line-height: 10px;
 }
