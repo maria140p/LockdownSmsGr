@@ -20,7 +20,8 @@
 }
 
 .logoscl > h4,
-.onomacl > h4 {
+.onomacl > h4,
+.addrescl > h4 {
   color: darkslategrey;
   line-height: 10px;
 }
