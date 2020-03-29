@@ -1,2 +1,0 @@
-# LockdownSmsGr
-Created with CodeSandbox
