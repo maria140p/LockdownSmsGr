@@ -2,3 +2,13 @@
   font-family: sans-serif;
   text-align: center;
 }
+.App > h1 {
+  line-height: 0px;
+}
+.App > h2 {
+  color: silver;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 14px;
+  margin-top: 0px;
+}
